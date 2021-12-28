@@ -16,3 +16,24 @@
 ## Follow Me
 [![个人博客](https://img.shields.io/badge/-个人博客（pyeden.com）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.pyeden.com/)
 [![Github](https://img.shields.io/github/followers/FutureSenzhong?label=Github&style=social)](https://github.com/FutureSenzhong)
+
+## Show Code
+```python
+
+
+class PythonWebEngineer:
+    
+    def __init__(self):
+        self.name = "Future Deng"
+        self.age = 28
+        self.role = "Python Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+        self.skill = ["Python", "React", "Golang"]
+        
+    @proprty
+    def name(self):
+        return self.name
+
+me = PythonWebEngineer()
+me.name
+```
