@@ -16,5 +16,3 @@
 ## Follow Me
 [![个人博客](https://img.shields.io/badge/-个人博客（pyeden.com）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.pyeden.com/)
 [![Github](https://img.shields.io/github/followers/FutureSenzhong?label=Github&style=social)](https://github.com/FutureSenzhong)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureSenzhong&layout=compact)](https://github.com/FutureSenzhong)
