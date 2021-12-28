@@ -18,5 +18,5 @@
 ## Languages
 <a href="https://github.com/FutureSenzhong">
   <img 
-       src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FutureSenzhong&layout=compact)](https://github.com/FutureSenzhong" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutureSenzhong&layout=compact)](https://github.com/FutureSenzhong" />
 </a>
