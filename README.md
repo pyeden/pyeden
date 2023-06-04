@@ -20,20 +20,70 @@
 ## Show Code
 ```python
 
+from abc import ABC, abstractmethod
+
+class Validator(ABC):
+    """
+    使用python描述器来验证名字是不是“future.deng”
+    """
+
+    def __set_name__(self, owner, name):
+        self.private_name = '_' + name
+
+    def __get__(self, obj, objtype=None):
+        return getattr(obj, self.private_name)
+
+    def __set__(self, obj, value):
+        self.validate(value)
+        setattr(obj, self.private_name, value)
+
+    @abstractmethod
+    def validate(self, value):
+        pass
+
+
+class ValidatorName(Validator):
+    """
+    使用类继承的方式实现validate方法
+    """
+    def __init__(self, is_validator_name=True):
+        self.is_validator_name = is_validator_name
+
+    def validate(self, value):
+        if self.is_validator_name:
+            if value != 'Future Deng':
+                raise ValueError("Future Deng 的私人代码，必须传入'Future Deng' 才能被实例化")
+
 
 class PythonWebEngineer:
-    
-    def __init__(self):
-        self.name = "Future Deng"
+
+    name = ValidatorName(is_validator_name=True)
+
+    def __init__(self, name):
+        self.name = name
         self.age = 28
         self.role = "Python Engineer"
         self.language_spoken = ["zh_CN", "en_US"]
         self.skill = ["Python", "React", "Golang"]
-        
-    @proprty
-    def name(self):
-        return self.name
 
-me = PythonWebEngineer()
-me.name
+
+if __name__ == '__main__':
+    me = PythonWebEngineer('Future Deng')
+    me.name
+    
+# 输出结果
+# Future Deng
+
+#   me = PythonWebEngineer('Future Dengsss')
+#   me.name
+
+# 若是传入错误的值 'Future Dengsss'
+"""
+  File "/Users/futuredeng/opt/backendxh/dsz.py", line 161, in validate
+    raise ValueError("Future Deng 的私人代码，必须传入'Future Deng' 才能被实例化")
+ValueError: Future Deng 的私人代码，必须传入'Future Deng' 才能被实例化
+"""
+
+
+
 ```
