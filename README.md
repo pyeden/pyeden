@@ -10,13 +10,14 @@
   - 主导整车功能测试自动化测试方案开发
   - 主导ADS智能辅助驾驶自动化测试方案开发   
 - 🌱 工作中常用技术栈
-  - **Python Golang c++**
-  - **React Vue**
+  - **Python、Golang、c++**
+  - **React、Vue、Angular**
 - ⚡ 研究方向: 
-  - 高性能 Web 服务器开发
-  - Python NLP自然语言处理
-  - Python 大数据开发
-  - Python 图像识别
+  - Python Web 服务器开发
+  - Python 自动化测试开发
+  - Python 大数据分析开发
+  - Python NLP自然语言处理算法开发
+  - Python 图像识别、检查算法开发
 
 ## Follow Me
 [![个人博客](https://img.shields.io/badge/-个人博客（pyeden.com）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.pyeden.com/)
