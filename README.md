@@ -3,21 +3,20 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pyeden&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 现在就职于 **赛力斯重庆新能源设计院有限公司**.
+- 🔭 现在就职于 **赛力斯重庆新能源设计院有限公司**
 - 👋 岗位职责
   - 主导自动化测试平台研发
   - 主导设计自动化测试平台软件架构
   - 主导整车功能测试自动化测试方案开发
   - 主导ADS智能辅助驾驶自动化测试方案开发   
 - 🌱 工作中常用技术栈
-  - **React**
-  - **Golang**
-  - **Python**  
+  - **Python Golang c++**
+  - **React Vue**
 - ⚡ 研究方向: 
-  - 高性能 Web 服务器开发.
-  - Python NLP自然语言处理.
-  - Python 大数据开发.
-  - Python 图像识别.
+  - 高性能 Web 服务器开发
+  - Python NLP自然语言处理
+  - Python 大数据开发
+  - Python 图像识别
 
 ## Follow Me
 [![个人博客](https://img.shields.io/badge/-个人博客（pyeden.com）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.pyeden.com/)
