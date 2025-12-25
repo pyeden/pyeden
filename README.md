@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pyeden&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 现在就职于 **赛力斯重庆新能源设计院有限公司**
+- 🔭 现在就职于 **赛力斯汽车有限公司**
 - 👋 岗位职责
   - 主导自动化测试平台研发
   - 主导设计自动化测试平台软件架构
