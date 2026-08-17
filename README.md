@@ -1,11 +1,11 @@
 # Hi,I'm Future Deng! 👋
-**Python全栈开发工程师**
+**自动化软件架构师**
 
 <img src="https://github-readme-stats.vercel.app/api?username=pyeden&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 现在就职于 **赛力斯汽车有限公司**
 - 👋 岗位职责
-  - 主导自动化测试平台研发
+  - 负责团队技术规划和自动化测试体系建设
   - 主导设计自动化测试平台软件架构
   - 主导整车功能测试自动化测试方案开发
   - 主导ADS智能辅助驾驶自动化测试方案开发   
@@ -13,11 +13,11 @@
   - **Python、Golang、c++**
   - **React、Vue、Angular**
 - ⚡ 研究方向: 
-  - Python Web 服务器开发
-  - Python 自动化测试开发
-  - Python 大数据分析开发
-  - Python NLP自然语言处理算法开发
-  - Python 图像识别、检查算法开发
+  - Web 服务器开发
+  - 自动化测试开发
+  - 大数据分析开发
+  - NLP自然语言处理算法开发
+  - 图像识别、检查算法开发
 
 ## Follow Me
 [![个人博客](https://img.shields.io/badge/-个人博客（pyeden.com）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.pyeden.com/)
