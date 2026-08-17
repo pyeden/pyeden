@@ -20,7 +20,7 @@
   - 图像识别、检查算法开发
 
 ## Follow Me
-[![个人博客](https://img.shields.io/badge/-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88www.seres%2Dai.com%EF%BC%89-c14438?style=flat-square&logo=B&logoColor=white)](https://www.seres-ai.com/)
+[![个人博客](https://img.shields.io/static/v1?label=&message=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88www.seres-ai.com%EF%BC%89&color=c14438&style=flat-square&logo=B&logoColor=white)](https://www.seres-ai.com/)
 [![Github](https://img.shields.io/github/followers/pyeden?label=Github&style=social)](https://github.com/pyeden)
 
 ## Show Code
