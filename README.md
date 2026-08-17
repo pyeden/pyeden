@@ -1,7 +1,8 @@
 # Hi,I'm Future Deng! 👋
 **架构师**
 
-<img src="https://github-readme-stats.vercel.app/api?username=pyeden&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats.shion.dev/api?username=pyeden&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
+
 
 - 🔭 现在就职于 **赛力斯汽车有限公司**
 - 👋 岗位职责
