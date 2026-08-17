@@ -1,5 +1,5 @@
 # Hi,I'm Future Deng! 👋
-**自动化软件架构师**
+**架构师**
 
 <img src="https://github-readme-stats.vercel.app/api?username=pyeden&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
 
